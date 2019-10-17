@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.receitasdamaria.com.br	TRUE	/	FALSE	1999999999	PHPSESSID	08d08b6a60e5bf064e614f0ef1fdf9db
+www.receitasdamaria.com.br	TRUE	/	FALSE	1999999999	__ib2pgvar_365	a
+
